@@ -8,13 +8,13 @@
 
 **Mata Kuliah : Pemrograman Mobile 1**
 
-**Dosen Pengampu : Donny**
+**Dosen Pengampu : Donny Maulana, S.Kom., M.M.S.I**
 
 
 
 **Link UX Prototype :**
 
-**Link Clickup :**
+**Link Clickup :https://app.clickup.com/90181803667/v/li/901811852258**
 
 
 # StoryBoard
