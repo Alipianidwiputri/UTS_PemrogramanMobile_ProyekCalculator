@@ -12,7 +12,7 @@
 
 
 
-**Link UX Prototype :**
+**Link UX Prototype :https://www.figma.com/proto/qnGrKos7rkqQdbL4KuFhAE/Untitled?node-id=8-65&p=f&t=UOyfuTWgahEvCw69-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1**
 
 **Link Clickup :https://app.clickup.com/90181803667/v/li/901811852258**
 
