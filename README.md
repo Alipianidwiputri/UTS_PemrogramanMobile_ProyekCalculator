@@ -1,4 +1,4 @@
-# UTS_PemrogramanMobile_ProyekCalculator
+# UAS_PemrogramanMobile_ProyekCalculator
 
 **Nama : Alipiani Dwi Putri**
 
@@ -16,7 +16,8 @@
 
 **Link Clickup :https://app.clickup.com/90181803667/v/li/901811852258**
 
-**Link Youtube:https://youtu.be/wibwj1CqmWA**
+**Link Youtube:https://youtu.be/wibwj1CqmWA](https://youtube.com/shorts/J09kG4aRedY?si=qk-h7UEbRRNIZ4GO)**
+
 
 
 # StoryBoard
